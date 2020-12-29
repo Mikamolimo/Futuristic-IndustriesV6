@@ -1,0 +1,35 @@
+{
+	"name": "Destroyer Factory",
+	"description": "Produces the ultimate Destroyer Mother-ship.",
+	"type": "UnitFactory",
+	"unitType": "destroyer",
+	"size": 7,
+	"produceTime": 3000,
+	"consumes": {
+		"power": 2.5,
+		"items": {
+			"items": [
+{"item": "copper", "amount":1400},
+{"item": "lead", "amount":670},
+{"item": "graphite", "amount":340},
+{"item": "phase-fabric", "amount": 70 },
+{"item": "tech-core", "amount": 170 },
+{"item": "blightblende", "amount": 20 },
+{"item": "starium", "amount": 40 },
+{"item": "starmetal", "amount": 100 }
+	]
+		}
+	},
+	"category": "units",
+	"research": "wraith-factory",
+	"requirements": [
+{"item": "copper", "amount":400},
+{"item": "lead", "amount":70},
+{"item": "graphite", "amount":40},
+{"item": "phase-fabric", "amount": 100 },
+{"item": "tech-core", "amount": 50 },
+{"item": "blightblende", "amount": 60 },
+{"item": "starium", "amount": 120 },
+{"item": "starmetal", "amount": 10 }
+	]
+}
