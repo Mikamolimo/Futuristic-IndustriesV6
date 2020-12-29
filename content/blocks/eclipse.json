@@ -1,5 +1,5 @@
 {
-	"type": "ChargeTurret",
+	"type": "PowerTurret",
 	"name": "Eclipse",
 	"description": "A powerful Weapon that annihilates weak enemies",
 	"health": 2800,
@@ -27,8 +27,6 @@
 		"lifetime": 30,
 		"knockback": 2,
 		"backColor": "33DFFF",
-		"fragBullets": 1,
-		"fragBullet": "lightning"
 	},
 	"requirements": [
 		{ "item": "titanium", "amount": 100 },
