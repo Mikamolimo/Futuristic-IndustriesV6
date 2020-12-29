@@ -21,7 +21,7 @@
 		}
 	},
 	"category": "units",
-	"research": "wraith-factory",
+	"research": "air-factory",
 	"requirements": [
 {"item": "copper", "amount":400},
 {"item": "lead", "amount":70},
