@@ -4,13 +4,14 @@
 	"description": "No machine can handle the power of starium weapons like this",
 	"health": 4000,
 	"size": 4,
-	"reload": 50,
+	"reloadTime": 50,
 	"range": 290,
+"frag":true,
 	"heatColor": "FFEE55",
 	"ammoUseEffect": "none",
 	"shootSound": "solar-destruction-shoot",
 	"rotatespeed": 2,
-	"ammo": {
+	"ammoTypes": {
 		"starium": {
 			"type": "ArtilleryBulletType",
 			"speed": 5.0,
