@@ -39,7 +39,7 @@
 			"ammoMultiplier": 2,
 			"splashDamage": 5,
 			"splashDamageRadius": 190,
-			"fragBullets": 7
+			"fragBullets": 15
 			"fragBullet": {
 				"type": "ArtilleryBulletType",
 				"speed": 7,
