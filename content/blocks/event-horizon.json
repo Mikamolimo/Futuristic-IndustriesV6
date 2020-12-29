@@ -4,13 +4,14 @@
 	"description": "Destroys, Everything.",
 	"health": 7000,
 	"size": 4,
-	"reload": 80,
+	"reloadTime": 80,
 	"range": 320,
+"frag":true,
 	"heatColor": "FFEE55",
 	"ammoUseEffect": "none",
 	"shootSound": "solar-destruction-shoot",
 	"rotatespeed": 0.9,
-	"ammo": {
+	"ammoTypes": {
 		"starium": {
 			"type": "ArtilleryBulletType",
 			"speed": 5.2,
@@ -57,8 +58,6 @@
 				"hitEffect": "hitLancer",
 				"trailEffect": "missileTrail",
 				"trailColor": "33DFFF",
-				"fragBullets": 1,
-				"fragBullet": "lightning"
 				"status": "melting",
 				"statusDuration": 1200
 				}
