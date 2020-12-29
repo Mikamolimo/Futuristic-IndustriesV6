@@ -1,7 +1,7 @@
 {
 	"name": "Armored liquid tank",
 	"description": "A liquid tank with a compressor integred.",
-	"type": "LiquidTank",
+	"type": "LiquidBlock",
 	"liquidCapacity": 2000,
 	"hasItems":false,
 	"health": 750,
