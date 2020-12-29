@@ -4,7 +4,7 @@
 	"description": "A powerful Weapon that annihilates weak enemies",
 	"health": 2800,
 	"size": 3,
-	"reload": 60,
+	"reloadTime": 60,
 	"range": 230,
 	"shootCone": 20,
 	"heatColor": "FFEE55",
