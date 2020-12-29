@@ -1,19 +1,19 @@
 {
-	"type": "burstTurret",
+	"type": "itemTurret",
 	"name": "Star Gatling",
 	"description": "A Nightmare for everything that flys.",
 	"health": 700,
 	"size": 3,
-	"reload": 2,
+	"reloadTime": 2,
 	"shootCone":20,
 	"range": 400,
+"frag":true,
 	"burstSpacing":10,
-	"ammoUseEffect": "shellEjectSmall",
 	"targetAir":true,
 	"targetGround":false,
 	"inaccuracy": 6,
 	"rotatespeed": 12,
-	"ammo": {
+	"ammoTypes": {
 		"starmetal": {
 			"speed": 8.0,
 			"damage":7,
