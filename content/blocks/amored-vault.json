@@ -1,7 +1,7 @@
 {
 	"name": "Amored-Vault",
 	"description": "Stores a extreme Amount of Items of each Type. An Unloader Block can be used to retrieve Items from the Amored Vault.",
-	"type": "Vault",
+	"type": "StorageBlock",
 	"itemCapacity": 3000,
 	"hasItems": true,
 	"health": 1000,
